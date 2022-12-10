@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+MISIONTIC 2022 CLICLO 4 RETO4
+
+Aplicación movil desarrollada en Visual Studio Code con lenguaje Flutter 
+
+la aplicacion esta diseñada para obtener nuestra ubicación actual y guardar esa informacion en una base de datos
