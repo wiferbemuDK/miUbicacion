@@ -20,3 +20,9 @@ MISIONTIC 2022 CLICLO 4 RETO4
 Aplicación movil desarrollada en Visual Studio Code con lenguaje Flutter 
 
 la aplicacion esta diseñada para obtener nuestra ubicación actual y guardar esa informacion en una base de datos
+
+DEMO DE LA APLICACION
+
+https://user-images.githubusercontent.com/106715808/206826345-36421590-d228-4259-8397-1e4f589fa9a1.mp4
+
+WILLIAM FERNANDO BENAVIDES MURCIA
